@@ -1,6 +1,6 @@
 ### Hi there✨
 
-✔️ Linguagens e ferramentas que uso:
+✔️ Algumas Linguagens e ferramentas que uso:
 <div align="center" valign="top"><br>
  
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
