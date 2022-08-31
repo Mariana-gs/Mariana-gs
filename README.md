@@ -20,7 +20,9 @@
   
 </div><br>
 
+<!--
 📊 Métricas:
+-->
 <div align="center">
   <a href="https://github.com/Mariana-gs">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mariana-gs&count_private=true&include_all_commits=true&show_icons=true&theme=panda&hide_border=false&show_owner=true"/>
@@ -44,11 +46,12 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 -->
 
+<!--
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+</div> -->
 
 
 
