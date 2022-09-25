@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Github, Visual Studio Code, IntelliJ IDEA, Bootstrap.</strong>
+  💼 Ferramentas: <strong>Github, Visual Studio Code, IntelliJ IDEA.</strong>
 </p>
 
 <p align="left">
