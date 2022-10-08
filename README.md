@@ -15,6 +15,10 @@
 </p>
 
 <p align="left">
+  🧚🏻 Estou Aprendendo: <strong> C#, .NET</strong>
+</p>
+
+<p align="left">
   💌 Entre em contato comigo através dos links abaixo: ⤵️
 </p>
 
