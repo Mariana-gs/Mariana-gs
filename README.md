@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  🧚🏻 Estou Aprendendo: <strong> C#, .NET</strong>
+  🧚🏻 Estou Aprendendo: <strong> C++, Unreal Engine</strong>
 </p>
 
 <p align="left">
