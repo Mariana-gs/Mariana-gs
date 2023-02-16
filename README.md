@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- 👩‍💻 Atualmente estou cursando o 5º período de Engenharia de Computação na PUC Minas
+ 👩‍💻 Atualmente estou cursando o 6º período de Engenharia de Computação na PUC Minas
 </p>
 
 <p align="left">
