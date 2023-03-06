@@ -5,7 +5,7 @@
 <p align="left"> 
  👩‍💻 Atualmente estou cursando o 6º período de Engenharia de Computação na PUC Minas
 </p>
-
+<!--
 <p align="left">
   🦄 Linguagens: <strong>Java, HTML, CSS, Javascript.</strong>
 </p>
@@ -13,7 +13,7 @@
 <p align="left">
   💼 Ferramentas: <strong>Github, Visual Studio Code, IntelliJ IDEA.</strong>
 </p>
-
+-->
 <p align="left">
   🧚🏻 Estou Aprendendo: <strong> Unreal Engine</strong>
 </p>
