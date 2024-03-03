@@ -17,6 +17,8 @@
 <p align="left">
   🧚🏻 Estou Aprendendo: <strong> Unreal Engine</strong>
 </p>
+
+<br>
 <!--
 <p align="left">
   💌 Entre em contato comigo através dos links abaixo: ⤵️
@@ -37,7 +39,6 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mariana-gs&color=green" alt="Visualizações do Perfil" /></p>
 
 
-
 <div align="center">
   <a href="https://github.com/Mariana-gs">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mariana-gs&count_private=true&include_all_commits=true&show_icons=true&theme=panda&hide_border=false&show_owner=true"/>
@@ -45,7 +46,7 @@
   </a>
 </div>
 
-
+<br>
 
 
 <!--
