@@ -38,7 +38,7 @@
 
 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Mariana-gs">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mariana-gs&count_private=true&include_all_commits=true&show_icons=true&theme=panda&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-gs&theme=panda&hide_border=false&&layout=compact"/>
