@@ -1,5 +1,5 @@
  ## 💜 Olá, Eu sou a <strong>Mariana!</strong>
- 
+ <!--
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
@@ -14,6 +14,7 @@
   💼 Ferramentas: <strong>Github, Visual Studio Code, IntelliJ IDEA.</strong>
 </p>
 -->
+<!--
 <p align="left">
   🧚🏻 Estou Aprendendo: <strong> Unreal Engine</strong>
 </p>
@@ -33,7 +34,7 @@
   -->
 <br>
 
-
+<!--
 ## ⭐ Informações sobre minha conta GitHub
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mariana-gs&color=green" alt="Visualizações do Perfil" /></p>
